@@ -1636,7 +1636,7 @@
 }
 
 .deviantart {
-    background: #475C4D;
+    background: linear-gradient(135deg, #000000,#3B4245);
     color: #05cc47;
     left: 0;
     top: 0%;
