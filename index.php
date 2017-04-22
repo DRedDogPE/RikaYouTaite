@@ -35,7 +35,7 @@
 								</header>
 								<a href="#oc" class="jumplink pic">
 									<span class="arrow icon fa-chevron-right"><span>See my OC's</span></span>
-									<img src="images/rika.jpg" alt="" />
+									<img src="https://farm3.staticflickr.com/2816/34183767355_346a435c90_o_d.jpg" alt="" />
 								</a>
 							</article>
 
