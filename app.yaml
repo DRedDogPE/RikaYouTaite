@@ -1,0 +1,19 @@
+application: rikayoutaite
+version: 1
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /assets
+  static_dir: assets
+  
+- url: /images
+  static_dir: images
+  
+- url: /test/.*
+  script: test.php
+  
+
+
+- url: /.*
+  script: index.php
