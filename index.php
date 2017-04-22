@@ -212,7 +212,8 @@
                                                                                         "userID": "149959936@N08",
                                                                                         "thumbnailHeight": "auto",
                                                                                         "thumbnailWidth": 200,
-                                                                                        "album": "none"
+                                                                                        "album": "none",
+                                                                                        "thumbnailHoverEffect2": "image_rotateZ_0deg_10deg_1000|image_scale_1_1.3_1000"
                                                                                       }'>
                                         </div>
 									<!-- </div> -->
