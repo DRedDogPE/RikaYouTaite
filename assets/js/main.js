@@ -27,6 +27,7 @@
 
 	var $window = $(window);
 
+
 	$window.on('load', function() {
 
 		skel
@@ -142,11 +143,13 @@
 
 										// Reposition.
 											$body._reposition();
+                                            
 
 										// Resize main to height of new panel.
                                             if(activePanelId == "oc") {
                                                 $main.animate({
-                                                    height: panels[activePanelId].outerHeight()/2.8
+                                                    height: 700
+                                                    // height: panels[activePanelId].outerHeight()/2.8
                                                 }, instant ? 0 : settings.resizeSpeed, 'swing', function() {
 
                                                     // Fade in new active panel.
